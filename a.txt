@@ -2,3 +2,5 @@ i first access to git!
 
 git is nice!
 git is a version control system!
+
+git is a free software!
