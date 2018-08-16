@@ -1,8 +1,2 @@
-i first access to git!
+git add commit test2
 
-git is nice!
-git is a version control system!
-
-git is a free software!
-
-i leran git in morning!
