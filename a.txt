@@ -6,3 +6,5 @@ git is a version control system!
 git is a free software!
 
 i leran git in morning!
+
+Git tracks changes!
